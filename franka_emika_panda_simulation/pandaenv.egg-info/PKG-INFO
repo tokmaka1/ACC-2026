@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: pandaenv
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/Data-Science-in-Mechanical-Engineering/franka-emika-panda-simulation
+Author: Bhavya Sukhija
+Author-email: sukhijab@ethz.ch
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Provides-Extra: gosafeopt
+Provides-Extra: classified_reg
+Provides-Extra: all
+License-File: LICENSE
+
+UNKNOWN
+
