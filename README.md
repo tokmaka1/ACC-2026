@@ -13,3 +13,6 @@ To cite this work:
   note={Under review for IEEE CSS and ACC},
   year={2025}
 }
+
+
+![Simulation demo](initial_policy.gif)
