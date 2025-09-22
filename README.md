@@ -27,3 +27,8 @@ We start of from a safe but sub-optimal policy which tries to grab the red ball.
 ## Optimized policy
 After 200 iterations with our safe BO algorithm, we optimize the policy to grab the red ball.
 ![Simulation demo](final_policy.gif)
+
+During the optimization, we have explored the domain asnd updated the GP mean for the reward and constraint functions.
+
+
+Crucially, we have not conducted any experiment that violated the safety conditions, i.e., no experiment yielded a negative constraint value.
