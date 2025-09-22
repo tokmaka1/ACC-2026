@@ -15,4 +15,15 @@ To cite this work:
 }
 
 
+
+# Franka experiment
+We tune a linear quadratic regulator (LQR) using our safe BO algorithm.
+
+## Initial policy
+We start of from a safe but sub-optimal policy which tries to grab the red ball.
 ![Simulation demo](initial_policy.gif)
+
+
+## Optimized policy
+After 200 iterations with our safe BO algorithm, we optimize the policy to grab the red ball.
+![Simulation demo](final_policy.gif)
