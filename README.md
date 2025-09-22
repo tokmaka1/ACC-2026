@@ -29,6 +29,8 @@ After 200 iterations with our safe BO algorithm, we optimize the policy to grab 
 ![Simulation demo](final_policy.gif)
 
 During the optimization, we have explored the domain asnd updated the GP mean for the reward and constraint functions.
-
+![Reward](mean_reward_250.pdf)
+![Constraint](mean_constraint_250.pdf)
 
 Crucially, we have not conducted any experiment that violated the safety conditions, i.e., no experiment yielded a negative constraint value.
+![Development](reward_constraint.png)
